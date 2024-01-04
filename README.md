@@ -1,0 +1,1 @@
+This is basic app for java , who begin to start coding he can start with this one.![Screenshot 2024-01-04 181533](https://github.com/kavinduGunasekara/TIC-TAC-TOE-GAME/assets/137909922/6fb42168-5905-47bc-8276-6909efc54c08)
